@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FallDetector</string>
+    <string name="fall_detected">Fall detected</string>
+    <string name="fall_detected_notification">We\'ve detected a freefall for your phone</string>
+    <string name="notification_title">FreeFall detector </string>
+    <string name="notification_message">Detector is running. </string>
+
+</resources>

@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.ana.falldetector">
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+
+    <application android:label="">
+
+        <service android:name=".service.SensorService"/>
+
+    </application>
+
+
+</manifest>
+
+
+
